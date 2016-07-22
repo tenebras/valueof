@@ -1,4 +1,4 @@
-package com.tenebras.valueof.validator;
+package com.sixsystems.valueof.validator;
 
 public class StringValidator {
 

@@ -1,7 +1,7 @@
-package com.tenebras.valueof;
+package com.sixsystems.valueof;
 
-import com.tenebras.valueof.validator.IntValidator;
-import com.tenebras.valueof.validator.StringValidator;
+import com.sixsystems.valueof.validator.IntValidator;
+import com.sixsystems.valueof.validator.StringValidator;
 
 public class Value {
 

@@ -1,4 +1,4 @@
-import com.tenebras.valueof.Value;
+import com.sixsystems.valueof.Value;
 
 public class Test {
 
@@ -10,5 +10,7 @@ public class Test {
         Value.of(firstName).should.have.lengthBetween(1, 5);
 
         Value.of(firstName).have.length(10);
+
+
     }
 }
